@@ -1,0 +1,22 @@
+{
+  "overview": "A single-page responsive website for CoolCare Services, an AC repair business. Mobile-first design focused on generating customer bookings via WhatsApp, with a clean blue/white/grey cooling aesthetic.",
+  "features": [
+    "Hero section with Call Now and WhatsApp CTA buttons",
+    "Service cards for AC Installation, Repair, Gas Refilling, Maintenance, and Cleaning",
+    "Why Choose Us section with 5 trust-building benefits",
+    "Contact info with clickable phone number, address, and working hours",
+    "Floating Book Service button with popup booking form",
+    "WhatsApp integration with auto-filled booking message",
+    "Confirmation message after booking submission",
+    "Mobile-first responsive layout with smooth scrolling and animations"
+  ],
+  "category": "showcase",
+  "tags": [
+    "landing-page",
+    "service-business",
+    "whatsapp",
+    "mobile-first",
+    "ac-repair"
+  ],
+  "last_updated": "2026-04-27T18:40:05.358Z"
+}
